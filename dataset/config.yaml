@@ -1,0 +1,9 @@
+src_lang: eng_Latn
+tgt_lang: hin_Deva
+custom_dataset: en-indic-exp
+topics_file: src/topics.txt
+samples_file: src/samples.txt
+samples_translate_file: src/samples-translate.txt
+api_base: https://api.endpoints.anyscale.com/v1
+model: mistralai/Mixtral-8x7B-Instruct-v0.1
+anyscale_api_credential:
