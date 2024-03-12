@@ -17,8 +17,8 @@ To create the dataset for fine-tuning, follow these steps:
 1. **Clone the Repository**:
 
    ```bash
-   git clone https://github.com/saurabhv749/indictrans2-finetune
-   cd indictrans2-finetune
+   git clone https://github.com/saurabhv749/indictrans2-conv
+   cd indictrans2-conv/dataset
    ```
 
 2. **Configuration**: We will use the `Anyscale` API for text generation. Obtain your API key by visiting the [Credentials Page](https://app.endpoints.anyscale.com/credentials) and paste it into `dataset/config.yaml`. If your target language is other than Hindi, please change `tgt_lang` accordingly. I'm using `Mixtral-8x7B-Instruct-v0.1`, but you can use any model listed [here](https://docs.endpoints.anyscale.com/).
