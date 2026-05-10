@@ -1,3 +1,5 @@
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/saurabhv749/indictrans2-conv/blob/main/indictrans2-finetune.ipynb)
+
 # Dataset Creation and Fine-Tuning Notebook for IndicTrans2 Models
 
 ## Introduction
