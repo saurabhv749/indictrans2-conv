@@ -53,12 +53,7 @@ To create the dataset for fine-tuning, follow these steps:
 
 ## Fine-Tuning Notebook
 
-The `indictrans2-finetune.ipynb` contains a Google Colab notebook for fine-tuning the translation model using the created `en-indic-exp.zip`. Follow the instructions within the notebook to:
-
-- Open the notebook in Colab.
-- Upload `en-indic-exp.zip`.
-- Extract the zip file.
-- Fine-tune the model.
+The `indictrans2-finetune.ipynb` contains a Google Colab notebook for fine-tuning the translation model.
 
 ## Pre-trained LoRA
 
